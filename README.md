@@ -11,3 +11,5 @@ to capture video from a webcam and then process it, to get consistant and correc
 cam=cv2.VideoCapture( <directory of videofile> )
 
 All the videos in the foldder are essentially the same video in different lengths and reolutions. Using these on these alorithms give consistant results.
+
+Consult the ppt and report for motivations and results
